@@ -1,0 +1,8 @@
+Name,Age,Marks,City,Result
+Rahul,20.0,85.0,Delhi,Pass
+Priya,21.0,92.0,Mumbai,Pass
+Aman,20.0,78.0,Delhi,Pass
+Neha,22.0,,Pune,Fail
+Riya,21.0,88.0,Mumbai,Pass
+Arjun,,75.0,Delhi,Pass
+Karan,20.0,95.0,Pune,Pass
